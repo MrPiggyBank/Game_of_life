@@ -1,0 +1,19 @@
+﻿  Game.cpp
+C:\Users\Ian\OneDrive\Desktop\Game of life\Game of life\Game.cpp(26,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Ian\OneDrive\Desktop\Game of life\Game of life\Game.cpp(242,47): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Ian\OneDrive\Desktop\Game of life\Game of life\Game.cpp(242,41): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Ian\OneDrive\Desktop\Game of life\Game of life\Game.cpp(243,37): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Ian\OneDrive\Desktop\Game of life\Game of life\Game.cpp(243,32): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Ian\OneDrive\Desktop\Game of life\Game of life\Game.cpp(244,56): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Ian\OneDrive\Desktop\Game of life\Game of life\Game.cpp(244,49): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Ian\OneDrive\Desktop\Game of life\Game of life\Game.cpp(246,42): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Ian\OneDrive\Desktop\Game of life\Game of life\Game.cpp(246,37): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Ian\OneDrive\Desktop\Game of life\Game of life\Game.cpp(247,50): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Ian\OneDrive\Desktop\Game of life\Game of life\Game.cpp(247,45): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Ian\OneDrive\Desktop\Game of life\Game of life\Game.cpp(250,48): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Ian\OneDrive\Desktop\Game of life\Game of life\Game.cpp(250,41): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Ian\OneDrive\Desktop\Game of life\Game of life\Game.cpp(251,37): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Ian\OneDrive\Desktop\Game of life\Game of life\Game.cpp(251,32): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Ian\OneDrive\Desktop\Game of life\Game of life\Game.cpp(252,56): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Ian\OneDrive\Desktop\Game of life\Game of life\Game.cpp(252,49): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  Game of life.vcxproj -> C:\Users\Ian\OneDrive\Desktop\Game of life\x64\Debug\Game of life.exe
